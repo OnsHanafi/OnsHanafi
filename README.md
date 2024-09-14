@@ -34,7 +34,7 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OnsHanafi&icon=7&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=OnsHanafi&label=Profile%20Views&color=10&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OnsHanafi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
