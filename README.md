@@ -40,12 +40,31 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OnsHanafi&label=Profile%20Views&color=10&icon=9&pretty=true)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=OnsHanafi&label=Profile%20Views&color=10&icon=9&pretty=true" alt="Profile Views" />
+  </a>
+</p>
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=OnsHanafi&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=OnsHanafi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnsHanafi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=✨+✨+✨+✨+✨+✨" alt="GitHub Stats Title" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnsHanafi&theme=radical&hide_border=false" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OnsHanafi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnsHanafi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OnsHanafi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
