@@ -46,6 +46,8 @@
   </a>
 </p>
 
+# Contributions:
+![snake gif](https://github.com/OnsHanafi/OnsHanafi/blob/output/github-contribution-grid-snake.gif)
 
 # 📊 GitHub Stats:
 
