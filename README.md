@@ -26,7 +26,7 @@
 - 🌱 I’m currently working on **Cloud Computing and DevOps projects**.
 - 🚀 I’m looking for an **internship opportunity in Cloud/DevOps**.
 - 📧 Reach me at: **ons.hanafi2@gmail.com**
-- 🌟 Fun fact: I love **solving complex puzzles and exploring new tech trends**.
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=🌸+El+alma+debe+aprender+a+forzar+lo+que+odia" alt="El alma debe aprender a forzar lo que odia">
