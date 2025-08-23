@@ -36,13 +36,6 @@
   <img src="https://media.giphy.com/media/8HboJv8HZQUr1pZKXV/giphy.gif" alt="Animated Heart" width="50">
 </p>
 
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-###
-
-
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
