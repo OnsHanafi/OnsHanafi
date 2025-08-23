@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently working on **Cloud Computing and DevOps projects**.
-- 🚀 I’m looking for an **internship opportunity in Cloud/DevOps**.
+- 🚀 I’m looking for an **opportunity in Cloud/DevOps**.
 - 📧 Reach me at: **ons.hanafi2@gmail.com**
 
 
@@ -36,7 +36,11 @@
   <img src="https://media.giphy.com/media/8HboJv8HZQUr1pZKXV/giphy.gif" alt="Animated Heart" width="50">
 </p>
 
-
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+###
 
 
 ---
